@@ -1,0 +1,1 @@
+This will install latest Kibana from docker-library and will add Marvel
