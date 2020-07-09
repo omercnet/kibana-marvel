@@ -1,3 +1,3 @@
-FROM kibana:4.5
+FROM kibana:7.8.0
 
 RUN gosu kibana kibana plugin --install elasticsearch/marvel
